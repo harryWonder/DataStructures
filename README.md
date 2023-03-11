@@ -1,0 +1,3 @@
+Ah! You've travelled far ny friend. Hope you don't mind some tea? My name is _Ilori Stephen_ and I am a software engineer who's created this resource to help you understand some concepts around data structures.
+
+This repository is divided into several folders and possibly sub-folders representing different data structures. I forgot to mention that the most of the solution is written in **_typescript_**. However, if you are interested in writing or converting this to other languaged to help others, please, send in a pull request.(and your tea is getting cold).
